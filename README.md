@@ -1,3 +1,3 @@
 ### OII
 
-- 
+- Atualemente estudando javascript
